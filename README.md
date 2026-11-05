@@ -112,6 +112,7 @@ Forms із використанням технології C++/CLI.*
 <img width="830" height="556" alt="image" src="https://github.com/user-attachments/assets/347a1a4b-627d-4db5-ba99-092f7d3078eb" />
 <img width="1137" height="612" alt="image" src="https://github.com/user-attachments/assets/6332e2f5-ca02-41ec-86a6-2adfb2d963ca" />
 <img width="803" height="531" alt="image" src="https://github.com/user-attachments/assets/e93f5620-715c-471b-8c3a-cffe0da4c552" />
+
 **Коментарі до виконання вимог:**
 1. Windows Forms C++/CLI: Програма базується на формі з полями введення та кнопкою.
 2. Перевірка даних: Використано конструкцію TryParse для перевірки наявності помилок у текстових полях перед розрахунками.
